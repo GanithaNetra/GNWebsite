@@ -19,3 +19,6 @@ knitr::opts_chunk$set(echo = FALSE)
 >February Last Week- Event poster is created
 
 >February Last Week- Website is designed with `distill`
+
+>February 23 -Website is published in `GitHub`
+
