@@ -1,0 +1,15 @@
+name: "GanithaNetra"
+title: "Ganitha Netra"
+description: |
+  Ganitha Netra
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Time Line"
+      href: about.html
+    - text: "Event Details"
+      href: details.html   
+output: distill::distill_article
+theme: theme.css

@@ -1,0 +1,21 @@
+---
+title: "Making of Ganitha Netra"
+description: |
+  Powered by $\infty$- the Saintgits Mathematics Club
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Project Time line
+
+>February First week- Working group is created 
+
+>February Second Week- Logo design is completed
+
+>February Third Week- Logo is generated with $\LaTeX$
+
+>February Last Week- Event poster is created
+
+>February Last Week- Website is designed with `distill`

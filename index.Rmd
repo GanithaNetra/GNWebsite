@@ -1,0 +1,24 @@
+---
+title: "Ganitha Netra"
+description: |
+  Welcome to the Ganitha Netra. I hope this site will be helpful to you!
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+```{r ,fig.align = 'center',out.width="50%"}
+knitr::include_graphics("images/Ganitha_netra_logo.JPG")
+```
+
+$$\color{red}{\text{Total Prize Money- Rs. 60000}}$$
+
