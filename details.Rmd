@@ -2,6 +2,10 @@
 title: "Event Details"
 description: |
   First National Level math short video contest
+output:
+  distill::distill_article:
+    toc: true
+    theme: theme.css
 ---
 
 ```{r setup, include=FALSE}

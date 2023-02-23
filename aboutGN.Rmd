@@ -1,0 +1,27 @@
+---
+title: "Maths Club"
+image: "images/infinity.JPG"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/GanithaNetra/GanithaNetra"
+  - label: Email
+    url: "ganithanetra@gmail.com"
+output:
+  postcards::trestles
+---
+## About the Maths Club
+
+Infinity is the title of Saintgits Mathematics Club, constituted in the month of November, 2011 under the guidance of Prof. C.C. Kurian, Professor & Head, Department of Mathematics.
+
+Purpose of the Maths Club is to develop students’ level of Math skills and knowledge. This will be accomplished by using games, activities, and mock competitions. Students will cooperatively work to complete Logic and Math Puzzles.
+
+Maths Club will support classroom learning, enrich their skills with higher order thinking, and prepare students for future Maths Competitions. We are able to invite speakers from a variety of mathematical areas in order to broaden the understanding of both the wide variety of topics and the potential applications of math. Understanding of these greatly benefits the students, as it opens their eyes to the variety of opportunities available through the study of
+math. It also serves to create a community of people interested in math, without the classification of a study group.
+
+## Ganitha Netra
+
+Ganitha Netra is a math short video contest hosted by the Department of Mathematics in association with infinity. This event is conducted as part of the national level techno-cultural festival Nakshatra-2023.
