@@ -20,5 +20,5 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/Ganitha_netra_logo.JPG")
 ```
 
-$$\color{red}{\text{Total Prize Money- Rs. 60000}}$$
+$$\color{red}{\text{Total Prize Money- Rs. 6000}}$$
 
