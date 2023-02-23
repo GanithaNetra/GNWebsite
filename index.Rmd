@@ -1,7 +1,7 @@
 ---
 title: "Ganitha Netra"
 description: |
-  Welcome to the Ganitha Netra. I hope this site will be helpful to you!
+  Welcome to the Ganitha Netra
 site: distill::distill_website
 ---
 
@@ -21,4 +21,13 @@ knitr::include_graphics("images/Ganitha_netra_logo.JPG")
 ```
 
 $$\color{red}{\text{Total Prize Money- Rs. 6000}}$$
+
+>**Points to Remember**
+
+* Last date of registration: March 27 11.50pm
+
+* Event date: 01, April, 2023
+
+* Event start time: 10.00am IST
+
 
