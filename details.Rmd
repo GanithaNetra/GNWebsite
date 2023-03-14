@@ -56,7 +56,7 @@ knitr::include_graphics("images/Ganitha_netra_logo.JPG")
         
 ### Rules & Regulations
 
-   - Maximum duration of the video is 5 minutes
+   - Maximum duration of the video shall be 5 minutes
    
    -  Submit video links (through the Google form shared) after uploading the video in personal drive.
    
